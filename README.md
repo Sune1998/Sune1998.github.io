@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+image: ![me](http://www.zealand.dk/wp-content/uploads/2019/01/Zealand_logo_black_RGB_1600px_72dpi.png)
 You can use the [editor on GitHub](https://github.com/Sune1998/Sune1998.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
