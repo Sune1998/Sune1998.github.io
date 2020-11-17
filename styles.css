@@ -2,7 +2,6 @@ header {
 background-color: rgba(181, 240, 255, 0.5);
 text-align: center ;
 padding: 2px;
-
 }
 
 
@@ -15,4 +14,26 @@ footer  {
     right: 0px;
     margin-bottom: 0px;
     position: absolute;
+}
+
+dl {
+    padding: 3px;
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+dt {
+    padding-left: 50px;
 }
