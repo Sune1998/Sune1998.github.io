@@ -1,12 +1,13 @@
 header {
-background-color: rgba(181, 240, 255, 0.5);
-text-align: center ;
-padding: 2px;
+    background-color: rgba(181, 240, 255, 0.5);
+    text-align: center;
+    padding: 2px;
 }
 
 
-footer  {
-    background-color: rgba(181, 240, 255, 0.5); /*oppacty 0.5*/
+footer {
+    background-color: rgba(181, 240, 255, 0.5);
+    /*oppacty 0.5*/
     text-align: center;
     padding: 45px;
     bottom: 0px;
@@ -36,4 +37,11 @@ a:visited {
 
 dt {
     padding-left: 50px;
+}
+
+.seach input {
+    margin: auto;
+  width: 30%;
+  border: 1px solid black;
+  padding: 10px;
 }
