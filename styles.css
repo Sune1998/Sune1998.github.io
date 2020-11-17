@@ -1,5 +1,18 @@
 header {
-background-color: rgb(94, 94, 192);
+background-color: rgba(181, 240, 255, 0.5);
 text-align: center ;
 padding: 2px;
+
+}
+
+
+footer  {
+    background-color: rgba(181, 240, 255, 0.5); /*oppacty 0.5*/
+    text-align: center;
+    padding: 45px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    position: absolute;
 }
