@@ -42,13 +42,13 @@ dt {
 
 .seach input {
     /*margin-left: 875px;*/
-    position: relative; left: 875px; top: 0px;
+    position: relative; left: 35%;  top: 0px;
   width: 30%;
   border: 1px solid black;
   padding: 10px;
 }
 .seach button {
-    position: relative; left: 875px; top: 8px;
+    position: relative; left: 34%; top: 8px;
     height: 41px;
 }
 
