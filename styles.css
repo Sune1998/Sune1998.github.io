@@ -1,11 +1,12 @@
 header {
     background-color: rgba(181, 240, 255, 0.5);
     text-align: center;
-    padding: 2px;
+    padding: 5px;
+    
 }
 
 
-footer {
+.footer {
     background-color: rgba(181, 240, 255, 0.5);
     /*oppacty 0.5*/
     text-align: center;
@@ -40,8 +41,24 @@ dt {
 }
 
 .seach input {
-    margin: auto;
+    margin-left: 875px;
   width: 30%;
   border: 1px solid black;
   padding: 10px;
 }
+
+.whitboxtop {
+   height: 20px !important;
+   background-color: white !important;
+
+    
+}
+ .body {
+     background-color: rgba(181, 240, 255, 0.5);
+   
+ }
+
+ .bund {
+     height: 200px !important;
+     background-color: white !important;
+ }
