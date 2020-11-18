@@ -1,5 +1,5 @@
 header {
-    background-color: rgba(181, 240, 255, 0.5);
+    background-color: rgba(181, 240, 255, 0.8);
     text-align: center;
     padding: 5px;
     
@@ -7,15 +7,15 @@ header {
 
 
 .footer {
-    background-color: rgba(181, 240, 255, 0.5);
+    background-color: rgba(181, 240, 255, 0.8);
     /*oppacty 0.5*/
     text-align: center;
     padding: 45px;
     bottom: 0px;
     left: 0px;
-    right: 0px;
-    margin-bottom: 0px;
-    position: absolute;
+    
+    
+    position: relative;
 }
 
 dl {
@@ -41,24 +41,32 @@ dt {
 }
 
 .seach input {
-    margin-left: 875px;
+    /*margin-left: 875px;*/
+    position: relative; left: 875px; top: 0px;
   width: 30%;
   border: 1px solid black;
   padding: 10px;
+}
+.seach button {
+    position: relative; left: 875px; top: 8px;
+    height: 41px;
 }
 
 .whitboxtop {
    height: 20px !important;
    background-color: white !important;
+   
 
     
 }
  .body {
      background-color: rgba(181, 240, 255, 0.5);
+     padding: 55px;
    
  }
 
  .bund {
-     height: 200px !important;
-     background-color: white !important;
+     height: 20px !important;
+     background-color:white !important;
+    
  }
